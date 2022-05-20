@@ -39,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "publishConfig": {
+    "@quanhuynh_nt:registry": "https://npm.pkg.github.com"
   }
 }
