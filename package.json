@@ -1,7 +1,10 @@
 {
-  "name": "@quanhuynhnt/sprint-0",
+  "name": "sprint-0",
   "version": "0.1.0",
   "private": false,
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@quanhuynhnt"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
@@ -39,8 +42,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "publishConfig": {
-    "@quanhuynhnt:registry": "https://npm.pkg.github.com"
   }
 }
